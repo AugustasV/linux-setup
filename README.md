@@ -9,3 +9,4 @@ First, install needed packages
 sudo apt install docker.io vim pip3 vscode gh git
 `
 
+How to migrate export/import gpg keys: https://access.redhat.com/solutions/2115511
